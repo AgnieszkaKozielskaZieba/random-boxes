@@ -1,10 +1,10 @@
-.Box{
+.Box {
 	width: 12.5vw;
 	height: 12.5vw;
 	/*border: 2px solid black;*/
 }
 
-.App{
+.App {
 	display: flex;
 	flex-wrap: wrap;
 }
